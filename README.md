@@ -2,7 +2,7 @@
 
 ## Team
 
-Contributors are: Alina Rimal, Hadir Elsekilly, Amelie Brucker
+Contributors are: Alina Rimal ([@rimal-alina](https://github.com/rimal-alina)), Hadir Elsekilly, Amelie Brucker ([@ameliebrucker](https://github.com/ameliebrucker))
 
 ## Description
 
